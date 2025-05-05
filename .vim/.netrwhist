@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/cayoananias1a25'
+let g:netrw_dirhist_2='/home/cayoananias1a25/atividade'
+let g:netrw_dirhist_1='/home/cayoananias1a25/atividade/5'
