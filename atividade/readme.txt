@@ -1,0 +1,1 @@
+nessas aulas aprendemos o basico de linguagem C e vimos o basico sobre como printf e scanf, vimos também como usar o int pra criar variavel, o char e etc ( e também fizemos uma lista de exercicios para fixação
