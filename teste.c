@@ -1,3 +1,4 @@
+//aula050525//
 #include <stdio.h>
 int main () { 
 	int B = 0;
